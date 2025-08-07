@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6,9333EA,7E22CE&height=200&section=header&text=Salam%20Hammad&fontSize=45&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=200&section=header&text=Salam%20Hammad&fontSize=45&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -7,18 +7,17 @@
 </p>
 
 <p align="center">
-  <a href="mailto:salamhammad2003@gmail.com"><img src="https://img.shields.io/badge/Email-salamhammad2003@gmail.com-9333EA?style=flat-square&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/salam-hammad-9b8327278"><img src="https://img.shields.io/badge/LinkedIn-SalamHammad-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/salam-hammad"><img src="https://img.shields.io/badge/GitHub-salam--hammad-6B7280?style=flat-square&logo=github&logoColor=white"></a>
-  <a href="https://wa.me/972594797932"><img src="https://img.shields.io/badge/WhatsApp-Chat-green?style=flat-square&logo=whatsapp&logoColor=white"></a>
+  <a href="mailto:salamhammad2003@gmail.com"><img src="https://img.shields.io/badge/Email-salamhammad2003@gmail.com-purple?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/salam-hammad-9b8327278"><img src="https://img.shields.io/badge/LinkedIn-SalamHammad-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/salam-hammad"><img src="https://img.shields.io/badge/GitHub-salam--hammad-lightgray?style=flat-square&logo=github"></a>
+  <a href="https://wa.me/972594797932"><img src="https://img.shields.io/badge/WhatsApp-Message-green?style=flat-square&logo=whatsapp"></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-Hi, I’m *Salam Hammad*, a results-driven **Full-Stack Laravel Developer** from Gaza, Palestine 🇵🇸.  
-I specialize in secure, scalable web solutions using PHP, Laravel, Vue.js, and modern stacks.
+Hi, I’m *Salam Hammad, a results-driven **Full-Stack Laravel Developer* from Gaza, Palestine 🇵🇸. I specialize in secure, scalable web solutions using PHP, Laravel, Vue.js, and modern stacks.
 
 *Key Focus Areas:*
 - ⚙ Building clean backend architectures using Laravel, Livewire, and Sanctum.
@@ -64,15 +63,12 @@ I specialize in secure, scalable web solutions using PHP, Laravel, Vue.js, and m
 
 ---
 
-
----
-
 ## 🧾 Certifications
 
-- 🛠 Laravel Developer Certificate – Udemy, 2022  
-- 💻 Full-Stack Web Foundations – Coursera, 2021  
-- 👨‍🏫 Training of Trainers (TOT) – Gaza Sky Geeks, 2021
-
+- 📜 PHP Laravel Development Certificate – Udemy, 2021  
+- 🧠 Web Development Fundamentals – Coursera, 2020
+-👨‍🏫 Training of Trainers (TOT) – Gaza Sky Geeks, 2021 
+---
 
 ## 🎓 Education
 
