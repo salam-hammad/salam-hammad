@@ -17,10 +17,10 @@
 
 ## 🧠 About Me
 
-Hi, I’m **Salam Hammad**, a passionate and results-driven **Full-Stack Laravel Developer** from Gaza 🇵🇸.  
-I specialize in building **secure**, **scalable**, and **real-time** web applications using **Laravel**, **Vue.js**, and modern stacks.
+Hi, I’m Salam Hammad, a passionate and results-driven *Full-Stack Laravel Developer* from Gaza 🇵🇸.  
+I specialize in building secure, **scalable, and **real-time web applications using Laravel, **Vue.js, and modern stacks.
 
-💡 *What I Do Best:*
+💡 What I Do Best:
 
 - 🧱 Architecting clean backend structures (Repository, Service Layer)
 - 🔐 Crafting secure RESTful APIs with Laravel Sanctum & Passport
@@ -43,40 +43,34 @@ I specialize in building **secure**, **scalable**, and **real-time** web applica
 
 ### 🛍 GSG Store – E-commerce Platform
 - Feature-rich Laravel store with RBAC, multilingual UI, SMS alerts, and real-time push notifications.
-- 🔧 **Tech Stack:** Laravel, Sanctum, Firebase, Vonage, TailwindCSS
-
----
+- 🔧 Tech Stack: Laravel, Sanctum, Firebase, Vonage, TailwindCSS
 
 ### 🏫 School Management System
 - Digitized academic management with remote Zoom classes, multilingual UI, and analytics dashboard.
-- 🔧 **Tech Stack:** Laravel, Vue.js, Livewire, Zoom SDK, Spatie RBAC
-
----
+- 🔧 Tech Stack: Laravel, Vue.js, Livewire, Zoom SDK, Spatie RBAC
 
 ### 🏥 Hospital Management System
 - Cloud-based platform for doctors and patients with secure records, file uploads, PDF invoices, and scheduling.
-- 🔧 **Tech Stack:** Laravel, Bootstrap, TCPDF, PHPMailer
+- 🔧 Tech Stack: Laravel, Bootstrap, TCPDF, PHPMailer
 
----
-
-### 🎨 ArtFeat Marketplace *(Ongoing)*
+### 🎨 ArtFeat Marketplace (Ongoing)
 - Artist portfolio + real-time bidding + CMS + Stripe integration for a digital art community.
-- 🔧 **Tech Stack:** Laravel, Vue.js, Stripe, Docker, AWS
+- 🔧 Tech Stack: Laravel, Vue.js, Stripe, Docker, AWS
 
 ---
 
 ## 🧾 Certifications
 
-- 🛠 **Laravel Developer Certificate** – Udemy, 2022  
-- 💻 **Full-Stack Web Foundations** – Coursera, 2021  
-- 👨‍🏫 **Training of Trainers (TOT)** – Gaza Sky Geeks, 2021
+- 🛠 Laravel Developer Certificate – Udemy, 2022  
+- 💻 Full-Stack Web Foundations – Coursera, 2021  
+- 👨‍🏫 Training of Trainers (TOT) – Gaza Sky Geeks, 2021
 
 ---
 
 ## 🎓 Education
 
-🎓 **Bachelor’s in Software Development**  
-*Islamic University of Gaza*, 2020 – 2025
+🎓 Bachelor’s in Software Development  
+Islamic University of Gaza, 2020 – 2025
 
 ---
 
