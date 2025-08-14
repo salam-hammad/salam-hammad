@@ -78,12 +78,12 @@ Enhanced dashboards, artist profiles, and real-time community modules.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=salam-hammad&bg_color=1a1b27&color=8B5CF6&line=A78BFA&point=ffffff&area=true&hide_border=true" />
+<!--   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=salam-hammad&bg_color=1a1b27&color=8B5CF6&line=A78BFA&point=ffffff&area=true&hide_border=true" /> -->
 </p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salam-hammad&theme=tokyonight" />
-  <img src="https://github-contribution-trophy.vercel.app/?username=salam-hammad&theme=darkhub&row=1&column=6" />
+<!--   <img src="https://github-contribution-trophy.vercel.app/?username=salam-hammad&theme=darkhub&row=1&column=6" /> -->
 </p>
 
 ---
