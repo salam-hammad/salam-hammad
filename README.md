@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?fontColor=ffffff&font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Full-Stack+Laravel+Developer;API+Integrator+%7C+Backend+Engineer;Open+Source+Contributor+%7C+2%2B+Years+Experience" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=8B5CF6&center=true&vCenter=true&width=450&lines=Full-Stack+Laravel+Developer;API+Integrator+%7C+Backend+Engineer;Open+Source+Contributor+%7C+2%2B+Years+Experience" />
 </p>
 
 <p align="center">
